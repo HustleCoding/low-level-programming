@@ -2,7 +2,7 @@
 
 int main()
 {
-    int favorite_number;
+    int favorite_number; // this is where my favorite number is stored
 
     std::cout << "Enter your favorite number between 1 and 100: ";
 
