@@ -1,4 +1,5 @@
 #include <iostream>
+#include <math.h>
 
 #define PI 3.14
 
@@ -13,4 +14,6 @@ int main()
     cout << "Enter a number: ";
     cin >> number;
     cout << "Your number is " << number << endl;
+
+    cout << sqrt(number) << endl;
 }
